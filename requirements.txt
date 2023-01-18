@@ -1,11 +1,10 @@
-os
 datetime
 turtle
 altair
 pandas
-plotly.express
-iplotly.graph_objects
-plotly.io
+plotly
+iplotly
 streamlit
 dotenv
 sqlalchemy
+psycopg2-binary
