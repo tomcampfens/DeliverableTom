@@ -2,6 +2,6 @@ altair
 pandas
 plotly
 streamlit
-dotenv
+python-dotenv
 sqlalchemy
 psycopg2-binary
