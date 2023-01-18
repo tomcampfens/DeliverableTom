@@ -1,4 +1,3 @@
-turtle
 altair
 pandas
 plotly
