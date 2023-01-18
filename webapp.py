@@ -1,7 +1,6 @@
 #%%
 import os
 from datetime import timedelta
-from turtle import width
 
 import altair as alt
 import pandas as pd
